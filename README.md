@@ -35,6 +35,8 @@ Engineers who front services with automatic HTTPS and simple configuration.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-proxy` | A first reverse proxy with automatic HTTPS |
